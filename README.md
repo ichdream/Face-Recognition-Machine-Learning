@@ -20,4 +20,4 @@ KNN进行分类，k = 6时效果最佳，96.5%。
 
 
 
-3. 使用CNN，两个隐藏层，最后softmax分类，卷积+max pooling, 模型训练过程采用dropout避免过拟合， 测试集正确率98%。
+3.使用CNN，两个隐藏层，最后softmax分类，卷积+max pooling, 模型训练过程采用dropout避免过拟合， 测试集正确率98%。
